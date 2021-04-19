@@ -1,2 +1,3 @@
 # TMO-Labs
-Jupyter Notebook 
+Labs:
+Рубежные контроли:
